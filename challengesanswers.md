@@ -125,7 +125,7 @@ localhost:3000/pricing/52
 The above request will take an mow_size as params and return the price according to the scalable pricing as specified in the above requirements
 I have used the params get technique
 
-## Regster a coupon
+## Register a coupon
 POST /coupon/registerCoupon HTTP/1.1
 Host: localhost:3000
 Content-Type: application/json
